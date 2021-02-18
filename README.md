@@ -1,2 +1,3 @@
 # BST-Based-Dictionary-
-A Dictionary program that lets you do queries on words you want and if the word was not found the program show you the closest words to it in spelling.
+A Program that uses BST to store dictionaries and look up words and if the word is not found the program brings back the closest words to that word, if it was found it brings back
+that word.
